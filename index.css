@@ -4,10 +4,11 @@
   align-items: center;
 }
 
+
 #github-container {
   display: flex;
 }
 
-ul {
+#user-list {
   list-style: none;
 }
